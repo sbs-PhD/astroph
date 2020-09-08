@@ -28,4 +28,4 @@ This research has made use of data from the University of Michigan Radio Astrono
 
 ## Contact
 
-If you want help sbsoltau@gmail.com
+If you want contact me, send a e-mail to sbsoltau@gmail.com
