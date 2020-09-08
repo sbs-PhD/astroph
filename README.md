@@ -6,11 +6,13 @@ This repository This repository was created to keep the code referenced in a pap
 
 There are some helper functions wrote to plot resources and and computing features. I import the following Python Modules:
 
-1. NumPy version 1.18.0 (https://numpy.org/)
-2. SciPy
-3. Scikit-learn
-4. XGBoost
-5. imbalance
+1. NumPy (version 1.18.0) - https://numpy.org/
+2. SciPy (version 1.4.0) - https://www.scipy.org/
+3. Scikit-learn (version 0.23.2) - https://scikit-learn.org/
+4. XGBoost (version 1.1.0) - https://s3-us-west-2.amazonaws.com/xgboost-nightly-builds/list.html?prefix=release_1.0.0/
+5. imbalance-learn (version 0.6.0) - https://pypi.org/project/imbalanced-learn/0.6.0/
+
+Python version 3.8.1 see documentation https://docs.python.org/release/3.8.1/
 
 ### Datasets and advise
 
