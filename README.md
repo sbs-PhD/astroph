@@ -6,7 +6,7 @@ This repository This repository was created to keep the code referenced in a pap
 
 There are some helper functions wrote to plot resources and and computing features. I import the following Python Modules:
 
-1. NumPy
+1. NumPy version 1.18.0 (https://numpy.org/)
 2. SciPy
 3. Scikit-learn
 4. XGBoost
