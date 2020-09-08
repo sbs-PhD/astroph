@@ -14,6 +14,8 @@ There are some helper functions wrote to plot resources and and computing featur
 
 Python version 3.8.1 see documentation https://docs.python.org/release/3.8.1/
 
+After install, run _benchmark.py_ code to check if all its ok.
+
 ### Datasets and advise
 
 The datasets used in paper was downloaded from https://dept.astro.lsa.umich.edu/datasets/umrao.phpuploaded. 
